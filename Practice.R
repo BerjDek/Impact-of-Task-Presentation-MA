@@ -75,3 +75,5 @@ mean(bata2$n)
 
 summary(bata1)
 summary(bata2)
+
+hello
