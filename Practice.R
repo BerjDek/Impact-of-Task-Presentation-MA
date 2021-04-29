@@ -76,4 +76,8 @@ mean(bata2$n)
 summary(bata1)
 summary(bata2)
 
-hello
+# nr of reports with photos attached
+# in the old apps, there is a for based on a mission
+#check when people are, registration time and the report time, nothing if they uninstalled, behavior vary to space. how risky the exposure to mosquitoes is, and disease risk.
+#check news reports chikingunya in 2016, zika scare 2016, dnegue cases in the past years. west nile cases past fall. 
+
